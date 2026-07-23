@@ -1,0 +1,99 @@
+{
+  "download_date": "2026-07-23",
+  "source": "World Bank World Development Indicators API",
+  "source_url": "https://data.worldbank.org/",
+  "license": "CC BY-4.0",
+  "indicator_metadata": {
+    "water_access_pct": {
+      "code": "SH.H2O.BASW.ZS",
+      "rows_received": 17490
+    },
+    "sanitation_access_pct": {
+      "code": "SH.STA.BASS.ZS",
+      "rows_received": 17490
+    },
+    "electricity_access_pct": {
+      "code": "EG.ELC.ACCS.ZS",
+      "rows_received": 17490
+    },
+    "gdp_per_capita_constant_usd": {
+      "code": "NY.GDP.PCAP.KD",
+      "rows_received": 17490
+    },
+    "urban_population_pct": {
+      "code": "SP.URB.TOTL.IN.ZS",
+      "rows_received": 17490
+    },
+    "population_density": {
+      "code": "EN.POP.DNST",
+      "rows_received": 17490
+    },
+    "population_total": {
+      "code": "SP.POP.TOTL",
+      "rows_received": 17490
+    }
+  },
+  "african_country_codes": [
+    "AGO",
+    "BDI",
+    "BEN",
+    "BFA",
+    "BWA",
+    "CAF",
+    "CIV",
+    "CMR",
+    "COD",
+    "COG",
+    "COM",
+    "CPV",
+    "DJI",
+    "EGY",
+    "ERI",
+    "ETH",
+    "GAB",
+    "GHA",
+    "GIN",
+    "GMB",
+    "GNB",
+    "GNQ",
+    "KEN",
+    "LBR",
+    "LBY",
+    "LSO",
+    "MAR",
+    "MDG",
+    "MLI",
+    "MOZ",
+    "MRT",
+    "MUS",
+    "MWI",
+    "NAM",
+    "NER",
+    "NGA",
+    "RWA",
+    "SDN",
+    "SEN",
+    "SLE",
+    "SOM",
+    "SSD",
+    "STP",
+    "SWZ",
+    "SYC",
+    "TCD",
+    "TGO",
+    "TUN",
+    "TZA",
+    "UGA",
+    "ZAF",
+    "ZMB",
+    "ZWE"
+  ],
+  "rows_written": 1325,
+  "target_complete_rows": 1276,
+  "complete_model_rows": 1189,
+  "country_count": 53,
+  "year_min": 2000,
+  "year_max": 2024,
+  "target_definition": "Mean of 100 minus basic drinking-water, basic sanitation, and electricity access percentages.",
+  "target_caveat": "This is a country-year service-deprivation index, not a household-level deprivation measure."
+}
